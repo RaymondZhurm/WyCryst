@@ -1,0 +1,13 @@
+numpy==1.24.4
+protobuf==3.19.4
+tensorflow==2.8.0
+keras==2.8.0
+matminer==0.8.0
+mp-api==0.33.3
+pymatgen==2023.6.26
+tqdm
+scikit-learn
+matplotlib
+pandas
+joblib
+seaborn

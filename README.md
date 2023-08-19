@@ -13,6 +13,9 @@ To install, just clone the repository. Then install all required packages:
 pip install -r requirement.txt
 ```
 
+Before running the model, please download the data file from GitHub.
+Please add the df_allternary_newdata.pkl to temp_files\wyckoff_data folder
+
 ## Usage
 
 You can train and test the PVAE model by:
